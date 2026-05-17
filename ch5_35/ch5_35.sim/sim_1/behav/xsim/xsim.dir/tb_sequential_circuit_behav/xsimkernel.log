@@ -1,0 +1,7 @@
+Running: xsim.dir/tb_sequential_circuit_behav/xsimk.exe -simmode gui -wdb tb_sequential_circuit_behav.wdb -simrunnum 0 -socket 49871
+Design successfully loaded
+Design Loading Memory Usage: 9388 KB (Peak: 9388 KB)
+Design Loading CPU Usage: 46 ms
+Simulation completed
+Simulation Memory Usage: 10040 KB (Peak: 10040 KB)
+Simulation CPU Usage: 46 ms

@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivadoproject/project_26/project_26.srcs/sources_1/new/a.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stopwatch_counter
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/vivadoproject/project_26/project_26.srcs/sim_1/new/q.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module stopwatch_counter_tb

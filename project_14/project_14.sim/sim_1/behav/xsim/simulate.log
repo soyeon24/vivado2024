@@ -1,0 +1,9 @@
+Time resolution is 1 ps
+Time: 0 | A: 00000000 (0), B: 00000000 (0), op: 0 | result: 00000000 (0), carry_out: 0
+Time: 10 | A: 00000101 (5), B: 00000011 (3), op: 0 | result: 00001000 (8), carry_out: 0
+Time: 20 | A: 00001010 (10), B: 00000111 (7), op: 1 | result: 00000011 (3), carry_out: 1
+Time: 30 | A: 00001111 (15), B: 00010100 (20), op: 0 | result: 00100011 (35), carry_out: 0
+Time: 40 | A: 00110010 (50), B: 00011001 (25), op: 1 | result: 00011001 (25), carry_out: 1
+Time: 50 | A: 11111111 (255), B: 00000001 (1), op: 0 | result: 00000000 (0), carry_out: 1
+Time: 60 | A: 00000000 (0), B: 00000001 (1), op: 1 | result: 11111111 (255), carry_out: 0
+$stop called at time : 70 ns : File "C:/vivadoproject/project_14/project_14.srcs/sim_1/new/as.v" Line 55

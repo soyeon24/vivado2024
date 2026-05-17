@@ -1,0 +1,8 @@
+Time resolution is 1 ps
+Input: 0001, Y: 00, Valid: 1
+Input: 0010, Y: 01, Valid: 1
+Input: 0100, Y: 10, Valid: 1
+Input: 1000, Y: 11, Valid: 1
+Input: 0000, Y: xx, Valid: 0
+Input: 0110, Y: 01, Valid: 1
+$finish called at time : 60 ns : File "C:/vivadoproject/project_17/project_17.srcs/sim_1/new/s.v" Line 44

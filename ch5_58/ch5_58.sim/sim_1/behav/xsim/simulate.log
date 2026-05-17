@@ -1,0 +1,13 @@
+Time resolution is 1 ps
+Time=0 | x=0 | y=0 | State=00
+Time=20000 | x=1 | y=0 | State=00
+Time=25000 | x=1 | y=0 | State=01
+Time=35000 | x=1 | y=1 | State=10
+Time=45000 | x=1 | y=1 | State=11
+Time=60000 | x=0 | y=0 | State=11
+Time=65000 | x=0 | y=0 | State=00
+Time=70000 | x=1 | y=0 | State=00
+Time=75000 | x=1 | y=0 | State=01
+Time=80000 | x=0 | y=0 | State=01
+Time=85000 | x=0 | y=0 | State=00
+$finish called at time : 100 ns : File "C:/vivadoproject/ch5_58/ch5_58.srcs/sim_1/new/s.v" Line 34

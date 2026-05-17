@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/vivadoproject/stopwatch/stopwatch.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/vivadoproject/stopwatch/stopwatch.srcs/sim_1/new/tb.v,1733054081,verilog,,,,bcd_4bit_tb,,,,,,,,
+C:/vivadoproject/stopwatch/stopwatch.srcs/sources_1/new/bcd_4bit.v,1733052270,verilog,,C:/vivadoproject/stopwatch/stopwatch.srcs/sources_1/new/bcd_counter.v,,bcd_4bit,,,,,,,,
+C:/vivadoproject/stopwatch/stopwatch.srcs/sources_1/new/bcd_counter.v,1733053060,verilog,,C:/vivadoproject/stopwatch/stopwatch.srcs/sim_1/new/tb.v,,bcd_counter,,,,,,,,

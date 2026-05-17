@@ -1,0 +1,7 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/vivadoproject/11.29/11.29.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/vivadoproject/11.29/11.29.srcs/sim_1/new/half_adder_tb.v,1732858277,verilog,,,,testbench,,,,,,,,
+C:/vivadoproject/11.29/11.29.srcs/sources_1/new/jk_ff.v,1732858734,verilog,,C:/vivadoproject/11.29/11.29.srcs/sim_1/new/half_adder_tb.v,,mux2b_if,,,,,,,,

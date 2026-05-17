@@ -1,0 +1,232 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Dec  7 16:49:54 2024
+# Process ID: 20032
+# Current directory: C:/vivadoproject/project_35
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent31796 C:\vivadoproject\project_35\project_35.xpr
+# Log file: C:/vivadoproject/project_35/vivado.log
+# Journal file: C:/vivadoproject/project_35\vivado.jou
+# Running On        :BOOK-4TE58G2232
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency     :2611 MHz
+# CPU Physical cores:12
+# CPU Logical cores :16
+# Host memory       :16718 MB
+# Swap memory       :51539 MB
+# Total Virtual     :68258 MB
+# Available Virtual :50504 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/vivadoproject/project_35/project_35.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source stopwatch_tb.tcl
+close_sim
+close_project
+open_project C:/school/2024_2/digital_design/st1/st1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+close_project
+create_project project_2 C:/school/2024_2/digital_design/project_2 -part xc7s6ftgb196-1
+file mkdir C:/school/2024_2/digital_design/project_2/project_2.srcs/sources_1/new
+close [ open C:/school/2024_2/digital_design/project_2/project_2.srcs/sources_1/new/s.v w ]
+add_files C:/school/2024_2/digital_design/project_2/project_2.srcs/sources_1/new/s.v
+update_compile_order -fileset sources_1
+file mkdir C:/school/2024_2/digital_design/project_2/project_2.srcs/sim_1/new
+set_property SOURCE_SET sources_1 [get_filesets sim_1]
+close [ open C:/school/2024_2/digital_design/project_2/project_2.srcs/sim_1/new/z.v w ]
+add_files -fileset sim_1 C:/school/2024_2/digital_design/project_2/project_2.srcs/sim_1/new/z.v
+update_compile_order -fileset sim_1
+launch_simulation
+update_compile_order -fileset sim_1
+launch_simulation
+source stopwatch_tb.tcl
+close_sim
+launch_simulation
+source stopwatch_tb.tcl
+close_sim
+launch_simulation
+source stopwatch_tb.tcl
+close_sim
+close_project
+open_project C:/school/2024_2/digital_design/st1/st1.xpr
+update_compile_order -fileset sources_1
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+launch_simulation
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim
+launch_simulation
+source timer_tb.tcl
+close_sim

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Nov  5 11:04:35 2024
+# Process ID: 1944
+# Current directory: C:/vivadoproject/project_1/project_1.runs/synth_1
+# Command line: vivado.exe -log AND_2.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source AND_2.tcl
+# Log file: C:/vivadoproject/project_1/project_1.runs/synth_1/AND_2.vds
+# Journal file: C:/vivadoproject/project_1/project_1.runs/synth_1\vivado.jou
+# Running On        :BOOK-4TE58G2232
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency     :2611 MHz
+# CPU Physical cores:12
+# CPU Logical cores :16
+# Host memory       :16718 MB
+# Swap memory       :46539 MB
+# Total Virtual     :63258 MB
+# Available Virtual :23090 MB
+#-----------------------------------------------------------
+source AND_2.tcl -notrace

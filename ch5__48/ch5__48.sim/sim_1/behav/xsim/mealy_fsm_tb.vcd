@@ -1,0 +1,142 @@
+$date
+   Mon Nov 25 02:06:13 2024
+$end
+
+$version
+  2024.1
+  $dumpfile ("mealy_fsm_tb.vcd") 
+$end
+
+$timescale
+  1ps
+$end
+
+$scope module mealy_fsm_tb $end
+$var reg 1 ! clk $end
+$var reg 1 " reset $end
+$var reg 1 # in $end
+$var wire 1 $ out $end
+$scope module uut $end
+$var wire 1 % clk $end
+$var wire 1 & reset $end
+$var wire 1 ' in $end
+$var reg 1 ( out $end
+$var reg 2 ) current_state [1:0] $end
+$var reg 2 * next_state [1:0] $end
+$upscope $end
+$upscope $end
+$enddefinitions $end
+
+#0
+$dumpvars
+0!
+1"
+0#
+1$
+0%
+1&
+0'
+1(
+b0 )
+b1 *
+$end
+
+#5000
+1!
+1%
+
+#10000
+0!
+0"
+0%
+0&
+
+#15000
+1!
+0$
+1%
+0(
+b1 )
+
+#20000
+0!
+0%
+
+#25000
+1!
+1%
+
+#30000
+0!
+1#
+1$
+0%
+1'
+1(
+b10 *
+
+#35000
+1!
+1%
+b10 )
+b11 *
+
+#40000
+0!
+0%
+
+#45000
+1!
+0$
+1%
+0(
+b11 )
+b0 *
+
+#50000
+0!
+0#
+0%
+0'
+b11 *
+
+#55000
+1!
+1%
+
+#60000
+0!
+1#
+0%
+1'
+b0 *
+
+#65000
+1!
+1%
+b0 )
+b11 *
+
+#70000
+0!
+0#
+1$
+0%
+0'
+1(
+b1 *
+
+#75000
+1!
+0$
+1%
+0(
+b1 )
+
+#80000
+0!
+0%
+
+#85000
+1!
+1%

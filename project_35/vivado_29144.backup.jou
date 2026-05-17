@@ -1,0 +1,26 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Sat Dec  7 12:39:16 2024
+# Process ID: 29144
+# Current directory: C:/vivadoproject/project_35
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent16044 C:\vivadoproject\project_35\project_35.xpr
+# Log file: C:/vivadoproject/project_35/vivado.log
+# Journal file: C:/vivadoproject/project_35\vivado.jou
+# Running On        :BOOK-4TE58G2232
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :22631
+# Processor Detail  :13th Gen Intel(R) Core(TM) i7-1360P
+# CPU Frequency     :2611 MHz
+# CPU Physical cores:12
+# CPU Logical cores :16
+# Host memory       :16718 MB
+# Swap memory       :51539 MB
+# Total Virtual     :68258 MB
+# Available Virtual :49818 MB
+#-----------------------------------------------------------
+start_gui
+open_project C:/vivadoproject/project_35/project_35.xpr
+update_compile_order -fileset sources_1

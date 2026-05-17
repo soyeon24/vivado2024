@@ -1,0 +1,6 @@
+Time resolution is 1 ps
+sel=0, a=01, b=10 -> out=01
+sel=1, a=01, b=10 -> out=10
+sel=0, a=11, b=00 -> out=11
+sel=1, a=11, b=00 -> out=00
+$finish called at time : 40 ns : File "C:/vivadoproject/project_10/project_10.srcs/sim_1/new/tb_mux_2_1.v" Line 29

@@ -1,0 +1,8 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+C:/vivadoproject/sw/sw.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+C:/vivadoproject/sw/sw.srcs/sim_1/new/a.v,1733058081,verilog,,C:/vivadoproject/sw/sw.srcs/sources_1/new/a.v,,tb,,,,,,,,
+C:/vivadoproject/sw/sw.srcs/sources_1/new/a.v,1733057786,verilog,,C:/vivadoproject/sw/sw.srcs/sim_1/new/a.v,,upcounter_for_1ms,,,,,,,,
+C:/vivadoproject/sw/sw.srcs/sources_1/new/bcd_adder.v,1733054923,verilog,,,,bcd_adder,,,,,,,,
